@@ -1,4 +1,8 @@
-Sample single page.
-Practise at HTML and CSS. No JS.
+## About
 
-To explore click [here](https://light-man-landing.surge.sh/).
+Sample beauty landind page.
+HTML and CSS, no JS.
+
+## Online
+
+To explore website online click [here](https://light-man-landing.surge.sh/).
