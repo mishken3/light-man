@@ -1,0 +1,20 @@
+.header {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+
+	gap: 25px;
+}
+
+.header__pagename {
+	opacity: 0.6;
+	line-height: 1.6rem;
+	text-transform: uppercase;
+	letter-spacing: 0.3rem;
+}
+
+.header__title {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 1.5rem;
+	line-height: 2rem;
+}
